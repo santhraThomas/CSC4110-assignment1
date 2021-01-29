@@ -4,6 +4,6 @@
 # Github and git
 
 # CSC4110-assignment1
-Santhra Thomas
+##Santhra Thomas
 
-gn7030
+**gn7030**
